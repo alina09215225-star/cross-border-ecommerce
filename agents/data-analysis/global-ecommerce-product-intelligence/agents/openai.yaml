@@ -1,0 +1,7 @@
+interface:
+  display_name: "全球电商产品情报"
+  short_description: "跨平台选品、竞品和真实评价分析"
+  default_prompt: "Use $global-ecommerce-product-intelligence to research a product category, compare marketplace competitors, analyze reviews, and produce an ecommerce opportunity report."
+
+policy:
+  allow_implicit_invocation: true

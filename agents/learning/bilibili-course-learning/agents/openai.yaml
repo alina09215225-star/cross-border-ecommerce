@@ -1,0 +1,7 @@
+interface:
+  display_name: "B站课程学习"
+  short_description: "检索、转写并学习 B 站课程"
+  default_prompt: "Use $bilibili-course-learning to find or study Bilibili courses, extract transcripts, create notes, recall questions, and an application plan."
+
+policy:
+  allow_implicit_invocation: true

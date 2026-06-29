@@ -1,0 +1,3 @@
+platform,product_id,product_title,brand,rating,review_title,review_text,review_date,variant,country,verified_purchase,helpful_votes,review_url
+Amazon,ASIN123,Example folding stool,Example Brand,2,Broke after a week,The stool looked nice but broke after one week. It felt flimsy and the size was smaller than expected.,2026-01-12,black,US,true,4,https://example.com/review/1
+Amazon,ASIN123,Example folding stool,Example Brand,5,Great for small spaces,Easy to fold and store. Good value for my apartment.,2026-02-03,black,US,true,2,https://example.com/review/2

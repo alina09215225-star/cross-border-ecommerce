@@ -1,0 +1,4 @@
+platform,product_title,product_url,brand,market,notes
+Amazon,Example folding stool,https://example.com/amazon-product,Example Brand,US,Primary listing
+Walmart,Example folding stool,https://example.com/walmart-product,Example Brand,US,Alternative listing
+eBay,Example folding stool,https://example.com/ebay-product,Example Brand,US,Check sold listings and reviews
