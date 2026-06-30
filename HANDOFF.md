@@ -6,6 +6,12 @@
 
 本地仓库路径：
 
+当前电脑：
+
+`/Users/yongliangfei/Documents/Playground/cross-border-ecommerce`
+
+历史来源路径：
+
 `/Users/admin/Documents/Codex/2026-05-24/new-chat/cross-border-ecommerce`
 
 远程仓库计划使用：
@@ -62,8 +68,18 @@ git clone https://github.com/alina09215225-star/cross-border-ecommerce.git
 
 ## 维护规则
 
+- 每次开始仓库工作前先运行 `git pull`。
 - 不提交 `.env`、API key、密码、账号 cookie、浏览器 profile。
 - 可以提交稳定的 Markdown、脚本、模板、研究报告和压缩归档。
 - 每次重要进展都更新 `HANDOFF.md`，让另一台电脑能接上。
 - 方向包保持版本化命名，例如 `xxx-v1`、`xxx-v2`。
+- 不执行任何付款、充值、投放扣费、下单等和钱相关的操作。
+- 稳定可复用的方法要沉淀到对应能手目录、`shared/` 或 `skill-packages/`。
 
+## 最近交接记录
+
+### 2026-06-30
+
+- 已在当前电脑克隆仓库到 `/Users/yongliangfei/Documents/Playground/cross-border-ecommerce`。
+- 已确认入口文档为 `README.md` 和 `HANDOFF.md`。
+- 已补充仓库级 `AGENTS.md`，固化安全边界、五个能手结构和提交维护规则。
