@@ -4,6 +4,14 @@
 
 本仓库已经把跨境电商相关资料从本机 Codex 工作目录整理为可同步结构，适合通过 GitHub private repo 在不同电脑之间继续工作。
 
+2026-07-12 已补充美国汽配大单品方向的 v2/v3 学习沉淀：
+
+- `knowledge-base/`: 课程学习、方法论和分发记录。
+- `role-packs/`: 策略（选品）、数据、运营、视觉四个能手的最新技能包镜像。
+- `skill-packages/us-auto-accessories-amazon-v2/`: 《跨境汽配选品逻辑》课程沉淀。
+- `skill-packages/us-auto-accessories-bilibili-batch-v3/`: B 站美国汽配大单品课程批量学习沉淀。
+- `portable-materials/`: 给其他电脑 Codex 使用的 README、提示词、安装脚本和轻量归档。
+
 本地仓库路径：
 
 当前电脑：
@@ -66,6 +74,13 @@ git clone https://github.com/alina09215225-star/cross-border-ecommerce.git
 请先阅读 HANDOFF.md，然后按跨境电商五个能手结构继续工作。
 ```
 
+如果要在另一台电脑恢复本机的跨境知识库和四能手目录，先读：
+
+```text
+portable-materials/README-其他电脑Codex使用说明.md
+portable-materials/prompts/四能手启动提示词.md
+```
+
 ## 维护规则
 
 - 每次开始仓库工作前先运行 `git pull`。
@@ -75,6 +90,7 @@ git clone https://github.com/alina09215225-star/cross-border-ecommerce.git
 - 方向包保持版本化命名，例如 `xxx-v1`、`xxx-v2`。
 - 不执行任何付款、充值、投放扣费、下单等和钱相关的操作。
 - 稳定可复用的方法要沉淀到对应能手目录、`shared/` 或 `skill-packages/`。
+- 大体积完整备份包默认不提交；优先提交 Markdown 和轻量安装包。
 
 ## 最近交接记录
 

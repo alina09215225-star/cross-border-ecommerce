@@ -1,0 +1,2 @@
+87da066df514de2ef9a7e4bdcdfe5ff090c7917b142d2b0c16120c5f0c29feac  crossborder-knowledge-role-pack-lite-2026-07-12.tar.gz
+19d173f8333feb5982833347b0e0c124ab0dc8975aeecbbc1e13f1c8dea60f7c  crossborder-learning-distributor-skill-2026-07-12.tar.gz
