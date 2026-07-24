@@ -102,6 +102,13 @@ portable-materials/prompts/四能手启动提示词.md
 
 ## 最近交接记录
 
+### 2026-07-24
+
+- 已按学习能手流程补做美国汽车配件课程筛选与学习沉淀。
+- 新增 `knowledge-base/课程学习/美国汽车配件课程筛选与学习-2026-07-24.md`。
+- 本轮建立美国汽配课程筛选标准 v2，复用并整合已有《跨境汽配选品逻辑》和 B 站美国汽配大单品批量学习结果。
+- 已发现 2025 年 `BV1yq51zRETc`《如何用亚马逊商机探测器做选品&关键词分析》适合作为数据能手补课，但当前未拿到公开字幕；后续如获得字幕/转写材料，应按 `course-deep-learning-with-agent` 做逐字稿级深学。
+
 ### 2026-06-30
 
 - 已在当前电脑克隆仓库到 `/Users/yongliangfei/Documents/Playground/cross-border-ecommerce`。
