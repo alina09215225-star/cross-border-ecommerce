@@ -19,6 +19,7 @@
 ## 已迁移内容
 
 - `bilibili-course-learning`: B 站课程学习与材料整理流程。
+- `course-deep-learning-with-agent`: 课程深度学习流程，用于结论、原理、证据、边界、迁移、检验六层总结。
 - `global-ecommerce-product-intelligence`: 全球电商选品、评论和市场研究流程。
 - `amazon-accessory-product-research-v1`: Amazon 配件产品研究方向包。
 - `big-product-accessory-crossborder-v1`: 大单品配件跨境方向包。

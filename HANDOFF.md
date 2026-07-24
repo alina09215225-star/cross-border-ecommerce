@@ -12,6 +12,12 @@
 - `skill-packages/us-auto-accessories-bilibili-batch-v3/`: B 站美国汽配大单品课程批量学习沉淀。
 - `portable-materials/`: 给其他电脑 Codex 使用的 README、提示词、安装脚本和轻量归档。
 
+2026-07-24 已升级学习能手课程总结标准：
+
+- `agents/learning/course-deep-learning-with-agent/`: 已导入课程深度学习技能包。
+- 以后课程总结默认不只做摘要，而是按“结论层、原理层、证据层、边界层、迁移层、检验层”六层结构输出。
+- 对 B 站课程，先用 `bilibili-course-learning` 获取字幕、文稿和基础材料，再用 `course-deep-learning-with-agent` 做深度总结、场景迁移和理解检验。
+
 本地仓库路径：
 
 当前电脑：
@@ -33,6 +39,8 @@
 路径：`agents/learning/`
 
 当前已放入 `bilibili-course-learning`，用于课程学习、字幕整理、知识点提取和行动计划生成。
+
+已补充 `course-deep-learning-with-agent`，用于课程深度学习、证据链还原、边界条件、反例、场景迁移和理解检验。以后“学过的课程总结”默认按该结构执行。
 
 ### 策略（选品）能手
 

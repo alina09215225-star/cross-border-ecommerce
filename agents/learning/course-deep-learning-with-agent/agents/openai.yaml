@@ -1,0 +1,7 @@
+interface:
+  display_name: "课程深度学习"
+  short_description: "让 agent 教会用户，而不是只给总结"
+  default_prompt: "Use $course-deep-learning-with-agent to deeply teach a course, preserve reasoning, extract evidence and boundaries, test understanding, and only then give an action plan."
+
+policy:
+  allow_implicit_invocation: true
