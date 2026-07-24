@@ -107,6 +107,12 @@ portable-materials/prompts/四能手启动提示词.md
 - 已按学习能手流程补做美国汽车配件课程筛选与学习沉淀。
 - 新增 `knowledge-base/课程学习/美国汽车配件课程筛选与学习-2026-07-24.md`。
 - 已按 `course-deep-learning-with-agent` 六层结构，为《跨境汽配选品逻辑》单课补充深度课程总结：`knowledge-base/课程学习/跨境汽配选品逻辑-BV1T1421r7ps-深度课程总结-2026-07-24.md`。
+- 已为《跨境汽配选品逻辑》深度课程总结补充 WPS 可打开版本，放在同目录：
+  - `knowledge-base/课程学习/跨境汽配选品逻辑-BV1T1421r7ps-深度课程总结-2026-07-24.docx`
+  - `knowledge-base/课程学习/跨境汽配选品逻辑-BV1T1421r7ps-深度课程总结-2026-07-24.rtf`
+  - `knowledge-base/课程学习/跨境汽配选品逻辑-BV1T1421r7ps-深度课程总结-2026-07-24.txt`
+  - `knowledge-base/课程学习/跨境汽配选品逻辑-BV1T1421r7ps-深度课程总结-2026-07-24.html`
+- 新增 `tools/markdown_to_readable_rtf.py` 和 `tools/markdown_to_readable_html.py`，后续课程总结可先写 Markdown，再转换为 WPS/浏览器可读版本。
 - 本轮建立美国汽配课程筛选标准 v2，复用并整合已有《跨境汽配选品逻辑》和 B 站美国汽配大单品批量学习结果。
 - 已发现 2025 年 `BV1yq51zRETc`《如何用亚马逊商机探测器做选品&关键词分析》适合作为数据能手补课，但当前未拿到公开字幕；后续如获得字幕/转写材料，应按 `course-deep-learning-with-agent` 做逐字稿级深学。
 
